@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"ayu",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"Colorsublime",
+		"Emmet",
+		"FileDiffs",
+		"GitSavvy",
+		"MarkdownLivePreview",
+		"Material Theme",
+		"Package Control",
+		"PlainTasks",
+		"Predawn",
+		"SideBarEnhancements",
+		"Sublimall",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal"
+	]
+}
